@@ -1,0 +1,6 @@
+[ general ]
+[ content ]
+	- functions: version, path
+	- options: v/video, y/yes, p/path
+[ fixes ]
+[ misc ]
